@@ -1,0 +1,14 @@
+{
+  "name": "Pharmacy DeFi",
+  "version": "1.0.0",
+  "description": "Pharmacy DeFi smart contracts",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "truffle": "^5.1.44",
+    "truffle-flattener": "^1.4.4"
+  }
+}
